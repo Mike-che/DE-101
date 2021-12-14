@@ -4,5 +4,7 @@
 ### Home Work Module 1:
 ```
 1. Create repo on GitHub
+2. Draw data architecture diagram
+3. 
 
 ```
