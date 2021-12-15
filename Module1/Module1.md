@@ -5,6 +5,6 @@
 ```
 1. Create repo on GitHub
 2. Draw data architecture diagram
-3. 
+3. Dashbord-SuperStore - Finish!
 
 ```
