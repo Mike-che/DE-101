@@ -1,4 +1,5 @@
 import psycopg2
+from psycopg2 import Error
 
 def PostgreSQL_connection(db_name, db_user, db_password, db_host, db_port):
     connection = None
@@ -11,6 +12,6 @@ def PostgreSQL_connection(db_name, db_user, db_password, db_host, db_port):
             port=db_port,
         )
         print("Connection to PostgreSQL DB successful")
-    except OperationalError as e:
-        print(f"The error '{e}' occurred")
+    except (Exception, Error) as error:
+        print("Ошибка при работе с PostgreSQL", error)
     return connection
