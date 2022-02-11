@@ -15,7 +15,7 @@
 
 ### Нарисовать модель данных в SQLdbm
 
-![SQLdbm model](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "SQLdbm model")
+![SQLdbm model](https://github.com/Mike-che/DE-101/blob/418663bd5701fd9f5ef3fd499254faf478278074/Module%202/model_data_Superstore.png "SQLdbm model")
 ### Нарисовать графики в Google Sheets
 
 
