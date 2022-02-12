@@ -2,8 +2,6 @@
 
 # Home Work Module 2:
 
-
-
 ### Установка БД
 
 [Installed DB](https://github.com/Mike-che/DE-101/blob/cf8812d5925a69d2a70e73423c3a703149131378/Module%202/orders.sql)
