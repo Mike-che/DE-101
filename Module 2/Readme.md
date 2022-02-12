@@ -5,10 +5,12 @@
 
 ### Установка БД
 
-
+[Installed DB](https://github.com/Mike-che/DE-101/blob/cf8812d5925a69d2a70e73423c3a703149131378/Module%202/orders.sql)
 
 ### Загрузка данных в БД
-
+[orders.sql](https://github.com/Mike-che/DE-101/blob/cf8812d5925a69d2a70e73423c3a703149131378/Module%202/orders.sql) 
+[people.sql](https://github.com/Mike-che/DE-101/blob/cf8812d5925a69d2a70e73423c3a703149131378/Module%202/people.sql) 
+[returns.sql](https://github.com/Mike-che/DE-101/blob/cf8812d5925a69d2a70e73423c3a703149131378/Module%202/returns.sql) 
 
 ### SQL запросы
 
